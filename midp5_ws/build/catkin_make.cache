@@ -1,0 +1,2 @@
+midp4
+-DCATKIN_DEVEL_PREFIX=/home/muhammadabdullokh/catkin_ws/midp5_ws/devel -DCMAKE_INSTALL_PREFIX=/home/muhammadabdullokh/catkin_ws/midp5_ws/install -G Unix Makefiles
